@@ -1,1 +1,6 @@
 This sentence is false.
+The statement above is true.
+The first statement applies to all statements below it.
+Below is defined as above.
+Above remains as it is.
+Therefore, is the sentence true or false?
