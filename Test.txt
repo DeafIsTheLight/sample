@@ -4,3 +4,11 @@ The first statement applies to all statements below it.
 Below is defined as above.
 Above remains as it is.
 Therefore, is the sentence true or false?
+
+But if it is true.
+Then it is true that it is false.
+
+But if it is false.
+Then it is false and is true.
+
+What?
